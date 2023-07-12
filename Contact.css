@@ -1,0 +1,51 @@
+.userform label,
+.userform input,
+.userform select {
+      margin-bottom: 30px;
+}
+
+.userform {
+    flex: 1;
+}
+
+#useremail,
+#username {
+    margin-left: 20px;
+    width: 500px;
+}
+
+#usersubject {
+    margin-left: 13px;
+    width: 500px;
+}
+
+#message {
+    height: 100px;
+    width: 500px;
+}
+
+#submit {
+    width: 150px;
+    background-color: #B40A00;
+    color: #FFFFFF;
+    margin-left: 427px;
+}
+
+.contact-flex {
+    margin-left: 100px;
+    display: flex;
+    width: 1200px;
+    height: 100%;
+}
+
+.contact-text {
+    flex: 1;
+    font-size: 20px;
+    word-wrap: normal;
+    margin-left: 200px;
+}
+
+.contact-icon {
+    flex: 1;
+    float: right;
+}

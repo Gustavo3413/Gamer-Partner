@@ -1,0 +1,127 @@
+.navbar {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 150px;
+    background: #000000 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    font-family: sans-serif;
+    font-size: 25;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    top: 971px;
+    left: 0px;
+    width: 100%;
+    height: 185px;
+    background: #B40A00 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    position: absolute;
+    bottom: 0%;
+    display: flex;
+}
+
+.Logo {
+    width: 348px;
+    height: 97px;
+    padding: 17px 32px;
+    margin-right: 50px;
+}
+
+.Kids {
+    margin-right: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 30%;
+}
+
+.Contact {
+    margin-right: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 30%;
+}
+
+.About {
+    margin-right: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 30%;
+}
+
+.Gameplay {
+    margin-right: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 30%;
+}
+
+.Reviews {
+    margin-right: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 30%;
+}
+
+.News {
+    margin-right: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 30%;
+}
+
+.trademarks {
+    top: 1040px;
+    left: 22px;
+    width: 1001px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 20px/49px Sans Serif Collection;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    flex: 1;
+    margin-left: 30px;
+}
+
+.socialmedia {
+    top: 1040px;
+    left: 1488px;
+    width: 209px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 20px/49px Sans Serif Collection;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    flex: 1;
+    margin-left: 100px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    color: #B40A00;
+    font-size: 40px;
+}
+
+.social-icon {
+    width: 20px;
+    height: 20px;
+}

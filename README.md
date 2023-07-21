@@ -15,3 +15,10 @@ Brand and website colors chosen.
 Gamer Partner logo designed and finished.
 Header and Footer designed.
 Homepage, About page, and Contact page designed.
+
+# Version 2 updates
+
+News page, Co-oping with kids page, and Co-oping with kids form submitted page designed.
+Js file for Co-oping with kids page created but not coded yet.
+Noticed probable problems with different resolutions, will try to address them in the next update.
+Final content for all pages being created.

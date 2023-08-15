@@ -1,0 +1,52 @@
+@media (min-width: 1000px) {
+
+    #overlay-box {
+        position: relative;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    #title-description {
+        font-size: 15px;
+    }
+
+    #icons-box {
+        display: grid;
+    }
+
+    .console-icon {
+        width: 10%;
+        height: auto;
+        padding-top: 30px;
+    }
+
+}
+
+@media (max-width: 999px) {
+
+    #overlay-box {
+        position: relative;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    #title-description {
+        font-size: 15px;
+    }
+
+    .console-icon {
+        width: 30%;
+        height: auto;
+        padding-top: 30px;
+    }
+}

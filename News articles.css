@@ -1,0 +1,86 @@
+@media (min-width: 1000px) {
+
+    h1 {
+        color: white;
+        text-align: center;
+        vertical-align: middle;
+        padding: 30px;
+    }
+
+    .article-title {
+        background-color: #B40A00;
+        height: 100px;
+        padding: 30px;
+    }
+
+    .headline-banner {
+        width: 80%;
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .article-text {
+        width: 80%;
+        margin: auto;
+        background-color: white;
+    }
+
+    .article-text p {
+        font-size: 20px;
+    }
+
+    table {
+        border: black;
+        border-style: solid;
+    }
+
+    table td {
+        padding: 15px;
+    }
+
+    table th,
+    .bold-td {
+        font-weight: bold;
+    }
+}
+
+@media (max-width: 999px) {
+
+    h1 {
+        color: white;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 25px;
+    }
+
+    .article-title {
+        background-color: #B40A00;
+        height: 100px;
+        padding: 30px;
+    }
+
+    .headline-banner {
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .article-text p {
+        font-size: 15px;
+    }
+
+    table {
+        border: black;
+        border-style: solid;
+        font-size: 12px;
+    }
+
+    table td {
+        padding: 15px;
+    }
+
+    table th,
+    .bold-td {
+        font-weight: bold;
+    }
+}

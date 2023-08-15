@@ -1,0 +1,29 @@
+@media (min-width:1000px) {
+    .contact-submit {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-submit-icon {
+        width: 5%;
+        height: auto;
+        padding: 10px;
+    }
+}
+
+@media (max-width:999px) {
+    .contact-submit {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-submit-icon {
+        width: 5%;
+        height: auto;
+        padding: 10px;
+    }
+}

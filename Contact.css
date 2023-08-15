@@ -1,0 +1,107 @@
+@media (min-width:1000px) {
+
+    .contact-title {
+        margin-left: 100px;
+        margin-bottom: 30px;
+    }
+
+    .userform label,
+    .userform input,
+    .userform select {
+        margin-bottom: 30px;
+    }
+
+    .userform {
+        flex: 1;
+    }
+
+    #useremail,
+    #username {
+        margin-left: 20px;
+        width: 500px;
+    }
+
+    #usersubject {
+        margin-left: 13px;
+        width: 500px;
+    }
+
+    #message {
+        height: 100px;
+        width: 500px;
+    }
+
+    #submit {
+        width: 150px;
+        background-color: #B40A00;
+        color: #FFFFFF;
+        margin-left: 427px;
+    }
+
+    .contact-flex {
+        margin-left: 100px;
+        display: flex;
+        width: 1200px;
+        height: 100%;
+    }
+
+    .contact-icon {
+        float: right;
+        width: 30%;
+        height: auto;
+        margin-bottom: 25%;
+    }
+}
+
+@media (max-width:999px) {
+
+    .contact-title {
+        margin-bottom: 30px;
+    }
+
+    .userform label,
+    .userform input,
+    .userform select {
+        margin-bottom: 30px;
+    }
+
+    #username {
+        width: 20%;
+        margin-left: 23px;
+    }
+
+    #useremail {
+        width: 20%;
+        margin-left: 20px;
+    }
+
+    #usersubject {
+        width: 20%;
+        margin-left: 12px;
+    }
+
+    #message {
+        height: 100px;
+        width: 20%;
+    }
+
+    #submit {
+        width: 150px;
+        background-color: #B40A00;
+        color: #FFFFFF;
+        position: relative;
+        margin-left: 10%;
+    }
+
+    .contact-flex {
+        display: grid;
+        width: 1200px;
+        height: 100%;
+    }
+
+    .contact-icon {
+        width: 10%;
+        height: auto;
+        margin-left: 10%;
+    }
+}

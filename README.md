@@ -22,3 +22,9 @@ News page, Co-oping with kids page, and Co-oping with kids form submitted page d
 Js file for Co-oping with kids page created but not coded yet.
 Noticed probable problems with different resolutions, will try to address them in the next update.
 Final content for all pages being created.
+
+# Version 3 updates
+
+All pages and content created.
+Co-oping with kids changed its design and usability completely.
+Website worked on to be compatible with mobile devices.
